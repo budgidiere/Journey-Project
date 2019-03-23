@@ -1,4 +1,6 @@
 # Next.js Hooks with TypeScript example
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbudgidiere%2FJourney-Project.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbudgidiere%2FJourney-Project?ref=badge_shield)
+
 
 ## How to use
 
@@ -27,3 +29,7 @@ yarn dev
 
 [Next.js](https://github.com/zeit/next.js) is a framework for server-rendered React apps.
 [Hooks](https://reactjs.org/docs/hooks-state.html) are an upcoming feature of React.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbudgidiere%2FJourney-Project.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbudgidiere%2FJourney-Project?ref=badge_large)
