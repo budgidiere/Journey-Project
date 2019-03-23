@@ -1,0 +1,49 @@
+{
+  "name": "nextjs",
+  "version": "3.0.0",
+  "private": true,
+  "dependencies": {
+    "@lokidb/fs-storage": "^2.0.0-beta.8",
+    "@lokidb/full-text-search": "^2.0.0-beta.8",
+    "@lokidb/full-text-search-language": "^2.0.0-beta.8",
+    "@lokidb/full-text-search-language-de": "^2.0.0-beta.8",
+    "@lokidb/full-text-search-language-en": "^2.0.0-beta.8",
+    "@lokidb/indexed-storage": "^2.0.0-beta.8",
+    "@lokidb/loki": "^2.0.0-beta.8",
+    "@lokidb/memory-storage": "^2.0.0-beta.8",
+    "@lokidb/partitioning-adapter": "^2.0.0-beta.8",
+    "@material-ui/core": "latest",
+    "@material-ui/styles": "latest",
+    "@zeit/next-typescript": "^1.1.1",
+    "animate.css": "^3.7.0",
+    "express": "^4.16.4",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "image-size": "^0.7.2",
+    "imagesize-ex": "^1.0.0",
+    "jss": "^10.0.0-alpha.3",
+    "lokijs": "^1.5.6",
+    "mongodb": "^3.2.1",
+    "nedb": "^1.8.0",
+    "next": "latest",
+    "preact": "^8.4.2",
+    "react": "next",
+    "react-dom": "next",
+    "react-router-dom": "^5.0.0",
+    "sql.js": "^0.5.0",
+    "tedb": "^0.5.1",
+    "typeface-roboto": "0.0.54"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@types/next": "^7.0.5",
+    "@types/react": "^16.7.17",
+    "@types/react-dom": "^16.0.11",
+    "@types/styled-jsx": "^2.2.7",
+    "typescript": "^3.2.2"
+  }
+}
